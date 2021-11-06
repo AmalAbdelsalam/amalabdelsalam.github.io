@@ -1,6 +1,4 @@
-# Amal Abdelsalam
-
-Data Science and Machine Learning enthusiast. 
+## ABOUT ME
 
 Drive business effectiveness through smart modeling of the right data.
 
