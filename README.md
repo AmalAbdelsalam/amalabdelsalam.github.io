@@ -12,3 +12,8 @@ I hold B.Sc  and M.Sc. in computer science.
 [LinkedIn](https://www.linkedin.com/in/amalabdelsalam/) / [GitHub](https://github.com/AmalAbdelsalam/) / [GoogleScholar](https://scholar.google.com/citations?user=ajBCGXMAAAAJ&hl=en) / [Email](mailto:am.mahmoud@nu.edu.eg)
 
 <!--- / [Twitter](https://twitter.com/AmalHalaby/) --->
+
+
+## Prtofolio
+
+[Practical Exercise for the Reinforcement Learning Workshop, DeepLearning IndabaXEgypt at AUC, 2019.](https://github.com/AmalAbdelsalam/IndabaXEgypt-RL-Workshop-2019/blob/main/IndabaXEgypt_ReinforcementLearning_Practical.ipynb)
