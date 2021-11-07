@@ -16,4 +16,4 @@ I hold B.Sc  and M.Sc. in computer science.
 
 ## Prtofolio
 
-[Practical Exercise for the Reinforcement Learning Workshop, DeepLearning IndabaXEgypt at AUC, 2019.](https://github.com/AmalAbdelsalam/IndabaXEgypt-RL-Workshop-2019/blob/main/IndabaXEgypt_ReinforcementLearning_Practical.ipynb)
+[Practical Exercise](https://github.com/AmalAbdelsalam/IndabaXEgypt-RL-Workshop-2019/blob/main/IndabaXEgypt_ReinforcementLearning_Practical.ipynb) for the Reinforcement Learning Workshop, DeepLearning IndabaXEgypt at AUC, 2019.
