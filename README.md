@@ -18,7 +18,7 @@ I hold B.Sc  and M.Sc. in computer science.
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
 <tr>
-<td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px"> <img src="/res/thumbnails/IxE.png" alt="project image" width="500" height="230"/> </td>
+<td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px"> <img src="https://github.com/AmalAbdelsalam/profile/blob/gh-pages/res/thumbnails/IxE.png" alt="project image" width="300" height="190"/> </td>
 <td style="padding:2.5%;width:75%;vertical-align:middle">
 <p style="font-family: 'Bree Serif';font-size: 1.3em;"> The practical tutorial I taught in the Reinforcement Learning Workshop, within the activities of the Deep Learning IndabaXEgypt at AUC, 2019. The content includes:
 <ul>
