@@ -16,19 +16,12 @@ I hold B.Sc  and M.Sc. in computer science.
 
 ## Prtofolio
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
-<tr>
-<td style="padding:2.5%;width:25%;vertical-align:top;min-width:120px"> <img src="https://github.com/AmalAbdelsalam/profile/blob/gh-pages/res/thumbnails/indabaxegypt_logo.png" alt="project image" width="160" height="90"/> </td>
-<td style="padding:2.5%;width:75%;vertical-align:top">
-<p style="font-family: 'Bree Serif';font-size: 1.3em;"> The practical tutorial I taught in the Reinforcement Learning Workshop, within the activities of the Deep Learning IndabaXEgypt at AUC, 2019. The content includes:
-<ul>
-  <li> Basic to advanced environments in OpenAI gym </li>
-  <li> Q-function implementation for disceret and continuous spaces </li>
-  <li> Epislon-greedy algorithm with Q-learning </li>
-  <li> Q-function approximation with DQN on Atari games </li>
-</ul>
-[<a href="https://github.com/AmalAbdelsalam/IndabaXEgypt-RL-Workshop-2019/blob/main/IndabaXEgypt_ReinforcementLearning_Practical.ipynb"><strong>Notebook</strong></a>]
-</p> 
-</td>
-</tr>
-</table>
+<img align="right" width="180" height="160" src="https://github.com/AmalAbdelsalam/profile/blob/gh-pages/res/thumbnails/indabaxegypt_logo.png">
+The practical tutorial I taught in the Reinforcement Learning Workshop, within the activities of the Deep Learning IndabaXEgypt at AUC, 2019. The content includes:
+
+* Basic to advanced environments in OpenAI gym 
+* Q-function implementation for disceret and continuous spaces 
+* Epislon-greedy algorithm with Q-learning
+* Q-function approximation with DQN on Atari games 
+
+[[Notebook](https://github.com/AmalAbdelsalam/IndabaXEgypt-RL-Workshop-2019/blob/main/IndabaXEgypt_ReinforcementLearning_Practical.ipynb)]
