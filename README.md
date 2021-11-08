@@ -16,7 +16,7 @@ I hold B.Sc  and M.Sc. in computer science.
 
 ## Prtofolio
 
-<img align="right" width="180" height="160" src="https://github.com/AmalAbdelsalam/profile/blob/gh-pages/res/thumbnails/indabaxegypt_logo.png">
+<img align="right" width="180" height="160" src="/res/thumbnails/indabaxegypt_logo.png">
 The practical tutorial I taught in the Reinforcement Learning Workshop, within the activities of the Deep Learning IndabaXEgypt at AUC, 2019. The content includes:
 
 * Basic to advanced environments in OpenAI gym 
