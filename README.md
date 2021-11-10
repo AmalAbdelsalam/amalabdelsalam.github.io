@@ -4,7 +4,7 @@ Hi, I am Amal.
 
 Data Science and Machine Learning enthusiast, detail-oriented, with a hacker spirit. 
 
-My areas of expertise include Statistical Analysis, Machine Learning and Natural Language Processing. I applied my knowledge to a wide range of applications include fintech, social media analytics, machine translation evaluation, and building information extraction pipelines for various data types.
+My areas of expertise include Statistical Analysis, Machine Learning and Natural Language Processing. I applied my knowledge in multiple application domains; e.g. fintech & investment management, social media analytics, machine translation evaluation, and building information extraction pipelines for various data types.
 
 I hold B.Sc  and M.Sc. in computer science.
 
