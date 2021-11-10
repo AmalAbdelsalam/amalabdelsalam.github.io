@@ -14,14 +14,14 @@ I hold B.Sc  and M.Sc. in computer science.
 <!--- / [Twitter](https://twitter.com/AmalHalaby/) --->
 
 
-## Prtofolio
+## Portfolio
 
 <img align="right" width="120" height="120" src="res/thumbnails/indabaxegypt_logo.png">
 The practical tutorial I taught in the Reinforcement Learning Workshop, within the activities of the Deep Learning IndabaXEgypt at AUC, 2019. The content includes:
 
 * Basic to advanced environments in OpenAI gym 
-* Q-function implementation for disceret and continuous spaces 
-* Epislon-greedy algorithm with Q-learning
+* Q-function implementation for discrete and continuous spaces 
+* Epsilon-greedy algorithm with Q-learning
 * Q-function approximation with DQN on Atari games 
 
 [[Notebook](https://github.com/AmalAbdelsalam/IndabaXEgypt-RL-Workshop-2019/blob/main/IndabaXEgypt_ReinforcementLearning_Practical.ipynb)]
